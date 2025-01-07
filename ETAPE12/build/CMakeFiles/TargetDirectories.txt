@@ -1,0 +1,3 @@
+/home/student/Documents/LaboCpp2024_Enonce/ETAPE12/build/CMakeFiles/rebuild_cache.dir
+/home/student/Documents/LaboCpp2024_Enonce/ETAPE12/build/CMakeFiles/MONtest12.dir
+/home/student/Documents/LaboCpp2024_Enonce/ETAPE12/build/CMakeFiles/edit_cache.dir
